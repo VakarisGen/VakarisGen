@@ -11,4 +11,5 @@ More can be found in my CV [here](https://github.com/VakarisGen/VakarisGen/blob/
 |---------|----------------|
 | `MySQL \| MS Power BI \| Looker \| MS Access` | `SQL \| Python \| AHK \| Lua` |
 
-🌱 I’m currently honing skills in: SQL and PYTHON
+🌱 I’m currently honing skills in: SQL and PYTHON (learning Pandas)
+
