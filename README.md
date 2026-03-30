@@ -14,4 +14,5 @@ More can be found in my CV [here](https://github.com/VakarisGen/VakarisGen/blob/
 🌱 I’m currently honing skills in: SQL and PYTHON (learning Pandas)
 
 I learn by practice and repetition. Some documentation, case studies and exercises below:
-> [SQL fundamentals](https://github.com/VakarisGen/SQL_Fundamentals)
+>[SQL fundamentals](https://github.com/VakarisGen/SQL_Fundamentals)  
+>[PYTHON fundamentals](https://github.com/VakarisGen/PYTHON_fundamentals)  
